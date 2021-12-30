@@ -1,6 +1,6 @@
 # TP1 : le modèle de Black-Scholes, solutions analytiques
 
-![Exercice 1](./exo1.png)
+![Exercice 1](./assets/exo1.png)
 
 ## Code
 
