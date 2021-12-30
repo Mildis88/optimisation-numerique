@@ -2,6 +2,8 @@
 
 ## Exercice : écrire une fonction similaire pour un put européen
 
+![Exercice 1](./assets/exo1.png)
+
 ### Code
 
 Le code utilisé pour obtenir les résultats ci-dessous se trouve [ici](./src)

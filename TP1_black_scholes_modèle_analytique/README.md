@@ -2,6 +2,8 @@
 
 ![Exercice 1](./assets/exo1.png)
 
+![Exercice 2](./assets/exo2.png)
+
 ## Code
 
 Le code utilisé pour obtenir les résultats ci-dessous se trouve [ici](./src)
